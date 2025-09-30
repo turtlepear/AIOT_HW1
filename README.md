@@ -1,6 +1,6 @@
 # AIOT_HW1
 
-# 📊 CRISP-DM 報告：Simple Linear Regression Demo
+# 📊 HW1: Linear regression
 
 ## 1️⃣ Business Understanding（商業理解）
 
@@ -75,3 +75,14 @@
 - 提供新輸入 `X` 值，讓模型輸出對應的 `y` 預測。  
 - 將結果輸出成報表（PDF/Word），供使用者下載。  
 - 用於教學平台或數據科學工作坊，幫助學生理解迴歸分析。  
+
+
+## prompt
+
+D<img width="542" height="169" alt="image" src="https://github.com/user-attachments/assets/92c33f7e-ea7f-47e6-b6d5-d547174736b9" />
+<img width="812" height="726" alt="image" src="https://github.com/user-attachments/assets/4ee13fb0-a206-4914-b74d-50d0490069e2" />
+<img width="617" height="740" alt="image" src="https://github.com/user-attachments/assets/7abe5710-ceb2-4960-8f2c-0ad420e558e6" />
+<img width="574" height="832" alt="image" src="https://github.com/user-attachments/assets/f0707d72-d15f-4486-b950-5252f77fa058" />
+<img width="501" height="851" alt="image" src="https://github.com/user-attachments/assets/01d9d9f7-5b46-4eca-91ef-8c9af4547724" />
+
+
